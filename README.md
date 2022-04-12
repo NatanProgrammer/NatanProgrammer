@@ -1,0 +1,6 @@
+- Olá me chamo Natan
+- Sou novo nesse meio da programação , meu maior interesse é aprender e adquirir experiência.
+- Atualmente estou focado no aprendizado beck and (python), e no primeiro semestre de analise e desenvolvimento de sistemas
+- email para contato : natanprogrammer0@gmail.com 
+- Estou aberto a qualquer oportunidade de aprender
+- 
